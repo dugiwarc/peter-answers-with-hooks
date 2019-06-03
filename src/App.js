@@ -1,5 +1,4 @@
 import React from "react";
-import Toggler from "./Toggler";
 import SimpleFormHooks from "./hooks/SimpleFormHooks";
 import "./App.css";
 
