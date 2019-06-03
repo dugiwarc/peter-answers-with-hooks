@@ -134,9 +134,9 @@ function SimpleFormHooks(props) {
   };
   return (
     <div className={classes.root}>
-      <p className={classes.title}>Virtual Tarot</p>
+      <p className={classes.title}>Answers Village</p>
       <h1>First ask your question and then fill in the petition</h1>
-      <small>*Peter may not always be able to answer your questions</small>
+      <small>We got all kinds of answers for you!</small>
       <div className={classes.mainPanel}>
         <label htmlFor="petition">Petition</label>
         <input
